@@ -8,8 +8,8 @@
   - [ ] Minimum Requirements
     - [x] Setup MongoDB database
     - [x] Setup item requests collection
-    - [X] `PUT /api/request`
-    - [ ] `GET /api/request?page=_`
+    - [x] `PUT /api/request`
+    - [x] `GET /api/request?page=_`
   - [ ] Main Requirements
     - [ ] `GET /api/request?status=pending`
     - [ ] `PATCH /api/request`
